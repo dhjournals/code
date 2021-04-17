@@ -9,8 +9,8 @@ Since the data are massive, the pipeline for iterating through uses first MongoD
 
 The data from CROSSREF have been downloaded from here:
 
-* link crossref
-* link coci
+* Crossref (dump kindly granted by [OpenCitations](https://opencitations.net)): https://www.dropbox.com/s/t5vzrxy1t82i5lr/crossref-data-2020-06.tar.gz?dl=0
+* COCI: https://figshare.com/articles/dataset/Crossref_Open_Citation_Index_CSV_dataset_of_all_the_citation_data/6741422/7
 
 1. First download both datasets and, for each of them, unzip the archive inside a new folder with its name. E.g. data from coci must be unzipped inside the folder `1_crossref/coci` in the root. Crossref must be unzipped inside the folder `1_crossref/crossref`.
 
