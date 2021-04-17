@@ -1,0 +1,1 @@
+mongoexport --collection=citations --db=crossref --type=csv --fields="citing,cited,date" --out=coci_citations.csv

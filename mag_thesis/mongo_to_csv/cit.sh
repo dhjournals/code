@@ -1,0 +1,1 @@
+mongoexport --collection=ref --db=mag --type=csv --fields="PaperId,PaperReferenceId" --out=mag_cit.csv
