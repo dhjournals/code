@@ -36,3 +36,6 @@ The data from CROSSREF have been downloaded from here:
 
 Once the data are exported, you can use the [Leiden Algorithm](https://github.com/CWTSLeiden/networkanalysis) to create clusters.
 
+
+Microsoft Academics dump https://archive.org/details/mag-2020-01-23
+
