@@ -23,6 +23,7 @@ The data from CROSSREF have been downloaded from here:
 3. Create a PostgreSQL database
 
 4. Activate the conda environment from the yaml file in root
+    5. using `conda env create -f {filename}.yml` 
 
 5. Execute both scripts in `1_crossref/1_dump_to_mongo`. They will populate the MongoDB database.
 
