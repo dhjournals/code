@@ -1,0 +1,1 @@
+mongoexport --collection=pubs --db=mag --type=csv --fields="PaperId,PaperTitle,Year,JournalId" --out=mag_pubs.csv
