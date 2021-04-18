@@ -1,1 +1,0 @@
-mongoexport --collection=pubs --db=crossref --type=csv --fields="doi,date,title,ISSN_P,ISSN_E" --out=crossref_pub.csv
