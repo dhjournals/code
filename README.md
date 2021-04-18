@@ -40,3 +40,10 @@ Once the data are exported, you can use the [Leiden Algorithm](https://github.co
 
 Microsoft Academics dump https://archive.org/details/mag-2020-01-23
 
+## Output data
+
+### Cluster map with percentage of DH publications
+
+The maps can be viewed online at the following addresses: [Crossref](), [Dimensions](), [MS Academics](), [Scopus](), [Web of Science](). Othewise each dataset can be found in `code/output/...`
+
+
