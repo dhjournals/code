@@ -38,3 +38,8 @@ Once the data are exported, you can use the [Leiden Algorithm](https://github.co
 
 
 Microsoft Academics dump https://archive.org/details/mag-2020-01-23
+
+For MS Academics The file downloaded are: 
+* Journals.txt
+* PaperCitationContexts.txt
+* Papers.txt`
