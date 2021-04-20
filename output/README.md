@@ -2,8 +2,8 @@
 
 ## Table of content
 
-* [Citations]()
-* [Clusters]()
+* [Citations](https://github.com/dhjournals/code/blob/master/output/README.md#citations)
+* [Clusters](https://github.com/dhjournals/code/blob/master/output/README.md#clusters)
 * [Journals]()
 * [Publications]()
 
