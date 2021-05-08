@@ -30,7 +30,7 @@ All the following images will have two plots: (A) shows the incoming citations, 
 **With subject categories**
 ![]()
 
-### Clusters
+## Clusters
 
 The maps can be viewed online at the following addresses: 
 
@@ -39,4 +39,26 @@ The maps can be viewed online at the following addresses:
 * [MS Academics](https://app.vosviewer.com/?json=https://raw.githubusercontent.com/dhjournals/code/master/output/mag/clusters/VOSViewer_MAG_map.json)
 * [Scopus](https://app.vosviewer.com/?json=https://raw.githubusercontent.com/dhjournals/code/master/output/scopus/clusters/VOSViewer_SCOPUS_map.json)
 * [Web of Science](https://app.vosviewer.com/?json=https://raw.githubusercontent.com/dhjournals/code/master/output/wos/clusters/VOSViewer_WOS_map.json)
+
+## publications
+
+### Crossref+COCI
+
+![](https://github.com/dhjournals/code/blob/master/output/crossref+coci/publications/venn.png?raw=true)
+
+### Dimensions
+
+![](https://github.com/dhjournals/code/blob/master/output/dimensions/publications/venn.png?raw=true)
+
+### MS Academics
+
+![](https://github.com/dhjournals/code/blob/master/output/mag/publications/venn.png?raw=true)
+
+### Scopus
+
+![](https://github.com/dhjournals/code/blob/master/output/scopus/publications/venn.png?raw=true)
+
+### Web of Science
+
+![](https://github.com/dhjournals/code/blob/master/output/wos/publications/venn.png?raw=true)
 
