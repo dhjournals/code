@@ -16,7 +16,7 @@ All the following images will have two plots: (A) shows the incoming citations, 
 ![](https://github.com/dhjournals/code/blob/master/output/crossref+coci/citations/citations.png?raw=true)
 
 ### Dimensions
-![](https://github.com/dhjournals/code/blob/master/output/dimensions/citations/pics/citations.png?raw=true)
+![](https://github.com/dhjournals/code/blob/master/output/dimensions/citations/citations.png?raw=true)
 
 ### MS Academics
 ![](https://github.com/dhjournals/code/blob/master/output/mag/citations/citations.png?raw=true)
