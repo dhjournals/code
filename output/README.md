@@ -27,8 +27,11 @@ All the following images will have two plots: (A) shows the incoming citations, 
 ### Web of Science
 ![](https://github.com/dhjournals/code/blob/master/output/wos/citations/citations.png?raw=true)
 
-**With subject categories**
-![]()
+### Web of Science with Subject Categories
+![](https://github.com/dhjournals/code/blob/master/output/wos/citations/citations_sc.png?raw=true)
+
+### Web of Science diverging citations
+![](https://github.com/dhjournals/code/blob/master/output/wos/citations/diverging_citations.png?raw=true)
 
 ## Clusters
 
