@@ -4,8 +4,8 @@
 
 * [Citations](https://github.com/dhjournals/code/blob/master/output/README.md#citations)
 * [Clusters](https://github.com/dhjournals/code/blob/master/output/README.md#clusters)
-* [Journals]()
-* [Publications]()
+* [Journals](https://github.com/dhjournals/code/blob/master/output/README.md#journals)
+* [Publications](https://github.com/dhjournals/code/blob/master/output/README.md#publications)
 
 
 ## Citations
@@ -18,7 +18,7 @@ All the following images will have two plots: (A) shows the incoming citations, 
 ### Dimensions
 ![](https://github.com/dhjournals/code/blob/master/output/dimensions/citations/citations.png?raw=true)
 
-### MS Academics
+### Microsoft Academic Graph
 ![](https://github.com/dhjournals/code/blob/master/output/mag/citations/citations.png?raw=true)
 
 ### Scopus
@@ -39,9 +39,14 @@ The maps can be viewed online at the following addresses:
 
 * [Crossref+COCI](https://app.vosviewer.com/?json=https://raw.githubusercontent.com/dhjournals/code/master/output/crossref%2Bcoci/clusters/VOSViewer_CROSSREF_map.json)
 * [Dimensions](https://app.vosviewer.com/?json=https://raw.githubusercontent.com/dhjournals/code/master/output/dimensions/clusters/VOSViewer_DIMENSIONS_map.json)
-* [MS Academics](https://app.vosviewer.com/?json=https://raw.githubusercontent.com/dhjournals/code/master/output/mag/clusters/VOSViewer_MAG_map.json)
+* [Microsoft Academic Graph](https://app.vosviewer.com/?json=https://raw.githubusercontent.com/dhjournals/code/master/output/mag/clusters/VOSViewer_MAG_map.json)
 * [Scopus](https://app.vosviewer.com/?json=https://raw.githubusercontent.com/dhjournals/code/master/output/scopus/clusters/VOSViewer_SCOPUS_map.json)
 * [Web of Science](https://app.vosviewer.com/?json=https://raw.githubusercontent.com/dhjournals/code/master/output/wos/clusters/VOSViewer_WOS_map.json)
+
+
+## Journals
+
+
 
 ## publications
 
@@ -53,7 +58,7 @@ The maps can be viewed online at the following addresses:
 
 ![](https://github.com/dhjournals/code/blob/master/output/dimensions/publications/venn_pubs.png?raw=true)
 
-### MS Academics
+### Microsoft Academic Graph
 
 ![](https://github.com/dhjournals/code/blob/master/output/mag/publications/venn_pubs.png?raw=true)
 
