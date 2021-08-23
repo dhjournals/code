@@ -47,21 +47,21 @@ The maps can be viewed online at the following addresses:
 
 ### Crossref+COCI
 
-![](https://github.com/dhjournals/code/blob/master/output/crossref+coci/publications/venn.png?raw=true)
+![](https://github.com/dhjournals/code/blob/master/output/crossref+coci/publications/venn_pubs.png?raw=true)
 
 ### Dimensions
 
-![](https://github.com/dhjournals/code/blob/master/output/dimensions/publications/venn.png?raw=true)
+![](https://github.com/dhjournals/code/blob/master/output/dimensions/publications/venn_pubs.png?raw=true)
 
 ### MS Academics
 
-![](https://github.com/dhjournals/code/blob/master/output/mag/publications/venn.png?raw=true)
+![](https://github.com/dhjournals/code/blob/master/output/mag/publications/venn_pubs.png?raw=true)
 
 ### Scopus
 
-![](https://github.com/dhjournals/code/blob/master/output/scopus/publications/venn.png?raw=true)
+![](https://github.com/dhjournals/code/blob/master/output/scopus/publications/venn_pubs.png?raw=true)
 
 ### Web of Science
 
-![](https://github.com/dhjournals/code/blob/master/output/wos/publications/venn.png?raw=true)
+![](https://github.com/dhjournals/code/blob/master/output/wos/publications/venn_pubs.png?raw=true)
 
