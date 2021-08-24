@@ -24,6 +24,9 @@ All the following images will have two plots: (A) shows the incoming citations, 
 ![](https://github.com/dhjournals/code/blob/master/output/scopus/citations/citations.png?raw=true)
 
 ### Web of Science
+
+Web of Science shows three plots. The first one is similar to the previous ones. The second aims to unwrap the bar called "Other" using the Subject Categories, while the third one shows the difference between incoming and outgoing percentages in absolute numbers.
+
 ![](https://github.com/dhjournals/code/blob/master/output/wos/citations/citations.png?raw=true)
 
 ### Web of Science with Subject Categories
