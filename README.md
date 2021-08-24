@@ -1,4 +1,4 @@
-This repository is related to the paper **A map of Digital Humanities research across bibliographic data sources**. It contains the code used to extract, parse, and analyze the data for Crossref and MS Academics. The paper also analyses data from other databases but no code about them will be displayed here.
+This repository is related to the paper **A map of Digital Humanities research across bibliographic data sources**. It contains the code used to extract, parse, and analyze the data for Crossref and Microsoft Academic Graph. The paper also analyses data from other databases but no code about them will be displayed here.
 
 The repository is organized as follows:
 
