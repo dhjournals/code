@@ -4,7 +4,6 @@
 
 * [Citations](https://github.com/dhjournals/code/blob/master/output/README.md#citations)
 * [Clusters](https://github.com/dhjournals/code/blob/master/output/README.md#clusters)
-* [Journals](https://github.com/dhjournals/code/blob/master/output/README.md#journals)
 * [Publications](https://github.com/dhjournals/code/blob/master/output/README.md#publications)
 
 
@@ -35,7 +34,7 @@ All the following images will have two plots: (A) shows the incoming citations, 
 
 ## Clusters
 
-The maps can be viewed online at the following addresses: 
+The maps can be viewed online using VOSViewer Online at the following addresses: 
 
 * [Crossref+COCI](https://app.vosviewer.com/?json=https://raw.githubusercontent.com/dhjournals/code/master/output/crossref%2Bcoci/clusters/VOSViewer_CROSSREF_map.json)
 * [Dimensions](https://app.vosviewer.com/?json=https://raw.githubusercontent.com/dhjournals/code/master/output/dimensions/clusters/VOSViewer_DIMENSIONS_map.json)
@@ -44,11 +43,9 @@ The maps can be viewed online at the following addresses:
 * [Web of Science](https://app.vosviewer.com/?json=https://raw.githubusercontent.com/dhjournals/code/master/output/wos/clusters/VOSViewer_WOS_map.json)
 
 
-## Journals
-
-
-
 ## publications
+
+Venn Diagramas indicating the junction between set of publications based on matching DOIs.
 
 ### Crossref+COCI
 
