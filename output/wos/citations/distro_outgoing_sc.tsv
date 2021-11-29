@@ -1,25 +1,25 @@
 discipline	perc	type
-[SC] [CS] Artificial Intelligence	17.7022343072763	sc
-[SC] [CS] Theory & Methods	9.16971001992255	sc
-[SC] [CS] Information Systems	8.97055644936057	sc
+[SC]  Artificial Intelligence	17.7022343072763	sc
+[SC]  Theory & Methods	9.16971001992255	sc
+[SC]  Information Systems	8.97055644936057	sc
 Linguistics	7.58096747027564	ah
 [SC] Engineering, Electrical & Electronic	6.75596045238102	sc
 Digital Humanities	6.29469447180282	dh
-[SC] [CS] Interdisciplinary Applications	4.70497315527975	sc
+[SC]  Interdisciplinary Applications	4.70497315527975	sc
 [SC] Linguistics	3.8751623631514	sc
 [SC] Language & Linguistics	3.02916113561451	sc
 Psychology	2.63849041522166	ss
-[SC] [CS] Software Engineering	2.577159455398	sc
+[SC]  Software Engineering	2.577159455398	sc
 [SC] Information Science & Library Science	2.12740078260584	sc
 [SC] Telecommunications	1.25523963135843	sc
 [SC] Multidisciplinary Sciences	1.13953953096684	sc
 [SC] Acoustics	1.02240016747797	sc
 Pedagogical & Educational Research	1.0106243785001	ss
-[SC] [CS] Cybernetics	0.937543118419312	sc
+[SC]  Cybernetics	0.937543118419312	sc
 [SC] Medical Informatics	0.714968812001368	sc
 Literature	0.636718439356265	ah
 [SC] Mathematical & Computational Biology	0.618918816045571	sc
-[SC] [CS] Hardware & Architecture	0.615909447751228	sc
+[SC]  Hardware & Architecture	0.615909447751228	sc
 Library and Information Science	0.537404187898813	ah
 [SC] Education & Educational Research	0.519959707430308	sc
 [SC] Automation & Control Systems	0.501541557829867	sc
@@ -39,7 +39,7 @@ History	0.345892135812087	ah
 [SC] Literature	0.289042093092987	sc
 [SC] Health Care Sciences & Services	0.28440314591989	sc
 [SC] Social Sciences, Interdisciplinary	0.25735451547983	sc
-Interdisciplinary research in the Social Sciences	0.244614171518657	ss
+Int. research in S.S.	0.244614171518657	ss
 [SC] Biochemical Research Methods	0.236871779500154	sc
 Anthropology	0.231077961562285	ss
 [SC] Biotechnology & Applied Microbiology	0.20903809646157	sc
@@ -47,7 +47,7 @@ Anthropology	0.231077961562285	ss
 [SC] Remote Sensing	0.195834939122754	sc
 Media Studies and Communication	0.194013963122872	ah
 [SC] Communication	0.183916413308797	sc
-Interdisciplinary research in the Humanities	0.169445616925611	ah
+Int. research in H.	0.169445616925611	ah
 [SC] Optics	0.167287571903694	sc
 Archaeology	0.154571017415204	ah
 Business and Management	0.154060625092196	ss
@@ -85,7 +85,7 @@ Science and Technology Studies	0.0665499684897672	ss
 [SC] Audiology & Speech-Language Pathology	0.0653021025136007	sc
 [SC] Psychology	0.0635178920624094	sc
 [SC] Food Science & Technology	0.0635178920624094	sc
-Political Sciences and International Relations	0.0630896815541235	ss
+Political Sciences	0.0630896815541235	ss
 [SC] Chemistry, Multidisciplinary	0.0630896815541235	sc
 [SC] Economics	0.0604133658773366	sc
 Sociology	0.0600078635020659	ss

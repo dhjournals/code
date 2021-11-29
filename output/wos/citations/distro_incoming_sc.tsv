@@ -1,14 +1,14 @@
 discipline	perc	type
-[SC] [CS] Artificial Intelligence	10.7873655263162	sc
+[SC]  Artificial Intelligence	10.7873655263162	sc
 Linguistics	10.1902185721103	ah
 Digital Humanities	8.08890627036805	dh
 Psychology	7.76734888975713	ss
-[SC] [CS] Information Systems	4.97999577878291	sc
-[SC] [CS] Theory & Methods	4.86006356655506	sc
-[SC] [CS] Software Engineering	3.97275453004781	sc
+[SC]  Information Systems	4.97999577878291	sc
+[SC]  Theory & Methods	4.86006356655506	sc
+[SC]  Software Engineering	3.97275453004781	sc
 [SC] Engineering, Electrical & Electronic	3.94253868931183	sc
 Pedagogical & Educational Research	3.20489143817228	ss
-[SC] [CS] Interdisciplinary Applications	2.6663190370657	sc
+[SC]  Interdisciplinary Applications	2.6663190370657	sc
 [SC] Information Science & Library Science	2.48978838048032	sc
 [SC] Linguistics	2.34443575370416	sc
 [SC] Language & Linguistics	2.23580150349778	sc
@@ -19,8 +19,8 @@ Anthropology	1.31510648131674	ss
 History	0.976019483058877	ah
 Philosophy	0.917465622197631	ah
 Musicology	0.792536234460279	ah
-[SC] [CS] Hardware & Architecture	0.791602262075386	sc
-[SC] [CS] Cybernetics	0.757615260939387	sc
+[SC]  Hardware & Architecture	0.791602262075386	sc
+[SC]  Cybernetics	0.757615260939387	sc
 [SC] Mathematics, Applied	0.683526702298627	sc
 [SC] Physics, Multidisciplinary	0.65995307000384	sc
 [SC] Imaging Science & Photographic Technology	0.659409898752808	sc
@@ -47,7 +47,7 @@ History & Philosophy of Science	0.303161980909309	ah
 [SC] Social Sciences, Interdisciplinary	0.252248728979246	sc
 [SC] Psychology, Multidisciplinary	0.250945117976769	sc
 [SC] Biology	0.245513405466449	sc
-Political Sciences and International Relations	0.24247164646067	ss
+Political Sciences	0.24247164646067	ss
 Sociology	0.238323793270971	ss
 [SC] Psychology	0.234106809194778	sc
 MISSING	0.228131925433426	sc
@@ -55,13 +55,13 @@ MISSING	0.228131925433426	sc
 [SC] Optics	0.218028940164232	sc
 [SC] Political Science	0.217268500412787	sc
 [SC] Mathematics	0.210750445400403	sc
-Interdisciplinary research in the Social Sciences	0.207869991796446	ss
+Int. research in S.S.	0.207869991796446	ss
 [SC] Physics, Mathematical	0.202276973884304	sc
 [SC] Clinical Neurology	0.194455307869444	sc
 [SC] Mathematics, Interdisciplinary Applications	0.180224221092407	sc
 [SC] Public, Environmental & Occupational Health	0.178594707339311	sc
 Business and Management	0.175082199915971	ss
-Interdisciplinary research in the Humanities	0.174805676369991	ah
+Int. research in H.	0.174805676369991	ah
 [SC] Robotics	0.167948550819084	sc
 [SC] Music	0.16295137530959	sc
 [SC] Management	0.157736931299683	sc
