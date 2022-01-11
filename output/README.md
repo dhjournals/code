@@ -11,6 +11,10 @@
 
 All the following images will have two plots: (A) shows the incoming citations, (B) shows the outgoing citations.
 
+### All databases
+
+![](https://raw.githubusercontent.com/dhjournals/code/master/output/general/cross_discipline_plot.png)
+
 ### Crossref+COCI
 ![](https://github.com/dhjournals/code/blob/master/output/crossref+coci/citations/citations.png?raw=true)
 
